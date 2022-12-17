@@ -1,0 +1,203 @@
+[2022-12-17T16:05:46.017+0000] {processor.py:154} INFO - Started process (PID=6170) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:05:46.018+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:05:46.020+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:05:46.020+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:05:46.088+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:05:46.467+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:05:46.466+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:05:46.511+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:05:46.510+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:05:46.561+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.553 seconds
+[2022-12-17T16:06:16.876+0000] {processor.py:154} INFO - Started process (PID=6191) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:06:16.880+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:06:16.881+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:06:16.881+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:06:16.940+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:06:17.031+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:06:17.031+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:06:17.301+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:06:17.300+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:06:17.340+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.472 seconds
+[2022-12-17T16:06:47.746+0000] {processor.py:154} INFO - Started process (PID=6219) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:06:47.748+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:06:47.750+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:06:47.750+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:06:47.826+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:06:47.929+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:06:47.929+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:06:48.245+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:06:48.244+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:06:48.289+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.552 seconds
+[2022-12-17T16:07:18.717+0000] {processor.py:154} INFO - Started process (PID=6242) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:07:18.719+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:07:18.721+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:07:18.721+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:07:18.795+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:07:19.090+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:07:19.090+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:07:19.136+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:07:19.136+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:07:19.173+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.463 seconds
+[2022-12-17T16:07:49.425+0000] {processor.py:154} INFO - Started process (PID=6263) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:07:49.427+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:07:49.428+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:07:49.428+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:07:49.484+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:07:49.795+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:07:49.794+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:07:49.836+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:07:49.836+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:07:49.871+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.454 seconds
+[2022-12-17T16:08:20.029+0000] {processor.py:154} INFO - Started process (PID=6284) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:08:20.031+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:08:20.033+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:08:20.032+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:08:20.098+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:08:20.392+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:08:20.392+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:08:20.433+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:08:20.433+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:08:20.468+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.445 seconds
+[2022-12-17T16:08:50.843+0000] {processor.py:154} INFO - Started process (PID=6306) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:08:50.845+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:08:50.846+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:08:50.846+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:08:50.899+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:08:50.982+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:08:50.982+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:08:51.027+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:08:51.027+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:08:51.070+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.235 seconds
+[2022-12-17T16:09:21.649+0000] {processor.py:154} INFO - Started process (PID=6328) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:09:21.651+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:09:21.653+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:09:21.652+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:09:21.743+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:09:21.843+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:09:21.843+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:09:22.132+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:09:22.131+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:09:22.166+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.527 seconds
+[2022-12-17T16:09:52.422+0000] {processor.py:154} INFO - Started process (PID=6358) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:09:52.426+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:09:52.428+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:09:52.428+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:09:52.543+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:09:52.692+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:09:52.691+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:09:53.021+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:09:53.020+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:09:53.080+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.668 seconds
+[2022-12-17T16:10:23.761+0000] {processor.py:154} INFO - Started process (PID=6381) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:10:23.763+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:10:23.769+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:10:23.768+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:10:23.856+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:10:23.992+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:10:23.991+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:10:24.309+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:10:24.309+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:10:24.400+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.647 seconds
+[2022-12-17T16:10:54.774+0000] {processor.py:154} INFO - Started process (PID=6403) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:10:54.776+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:10:54.778+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:10:54.777+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:10:54.848+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:10:55.157+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:10:55.157+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:10:55.216+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:10:55.216+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:10:55.267+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.501 seconds
+[2022-12-17T16:11:25.370+0000] {processor.py:154} INFO - Started process (PID=6425) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:11:25.372+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:11:25.374+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:11:25.374+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:11:25.438+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:11:25.754+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:11:25.754+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:11:25.798+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:11:25.798+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:11:25.839+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.479 seconds
+[2022-12-17T16:11:56.102+0000] {processor.py:154} INFO - Started process (PID=6448) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:11:56.104+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:11:56.106+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:11:56.106+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:11:56.176+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:11:56.476+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:11:56.476+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:11:56.522+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:11:56.522+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:11:56.561+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.469 seconds
+[2022-12-17T16:12:26.717+0000] {processor.py:154} INFO - Started process (PID=6471) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:12:26.719+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:12:26.722+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:12:26.721+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:12:26.784+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:12:26.915+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:12:26.914+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:12:26.982+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:12:26.982+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:12:27.261+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.552 seconds
+[2022-12-17T16:12:57.560+0000] {processor.py:154} INFO - Started process (PID=6492) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:12:57.562+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:12:57.564+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:12:57.563+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:12:57.623+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:12:57.701+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:12:57.701+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:12:58.002+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:12:58.001+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:12:58.035+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.484 seconds
+[2022-12-17T16:13:28.380+0000] {processor.py:154} INFO - Started process (PID=6522) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:13:28.395+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:13:28.413+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:13:28.413+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:13:28.550+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:13:28.667+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:13:28.667+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:13:29.071+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:13:29.071+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:13:29.154+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.800 seconds
+[2022-12-17T16:13:59.563+0000] {processor.py:154} INFO - Started process (PID=6544) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:13:59.566+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:13:59.569+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:13:59.569+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:13:59.630+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:13:59.966+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:13:59.966+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:14:00.023+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:14:00.022+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:14:00.076+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.526 seconds
+[2022-12-17T16:14:30.542+0000] {processor.py:154} INFO - Started process (PID=6566) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:14:30.544+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:14:30.546+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:14:30.546+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:14:30.636+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:14:31.032+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:14:31.031+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:14:31.105+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:14:31.105+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:14:31.161+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.632 seconds
+[2022-12-17T16:15:01.432+0000] {processor.py:154} INFO - Started process (PID=6588) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:15:01.434+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:15:01.436+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:15:01.436+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:15:01.501+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:15:01.782+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:15:01.782+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:15:01.830+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:15:01.829+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:15:01.878+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.452 seconds
+[2022-12-17T16:15:32.408+0000] {processor.py:154} INFO - Started process (PID=6610) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:15:32.410+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:15:32.412+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:15:32.412+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:15:32.491+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:15:32.590+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:15:32.590+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:15:32.646+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:15:32.646+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:15:32.938+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.537 seconds
+[2022-12-17T16:16:03.249+0000] {processor.py:154} INFO - Started process (PID=6631) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:16:03.251+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:16:03.254+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:16:03.254+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:16:03.314+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:16:03.417+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:16:03.417+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:16:03.757+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:16:03.756+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:16:03.802+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.565 seconds
+[2022-12-17T16:16:34.027+0000] {processor.py:154} INFO - Started process (PID=6660) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:16:34.036+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:16:34.039+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:16:34.038+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:16:34.117+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:16:34.312+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:16:34.312+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:16:34.728+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:16:34.727+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:16:35.011+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 1.002 seconds
+[2022-12-17T16:17:06.108+0000] {processor.py:154} INFO - Started process (PID=6682) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:17:06.110+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:17:06.112+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:17:06.111+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:17:06.182+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:17:06.608+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:17:06.607+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:17:06.671+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:17:06.671+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:17:06.712+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.617 seconds
+[2022-12-17T16:17:37.419+0000] {processor.py:154} INFO - Started process (PID=6706) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:17:37.421+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:17:37.423+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:17:37.423+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:17:37.485+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:17:37.779+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:17:37.779+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:17:37.838+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:17:37.837+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:17:37.886+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.475 seconds
+[2022-12-17T16:18:08.133+0000] {processor.py:154} INFO - Started process (PID=6727) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:18:08.135+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:18:08.136+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:18:08.136+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:18:08.209+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:18:08.486+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:18:08.486+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:18:08.528+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:18:08.527+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:18:08.571+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.446 seconds
+[2022-12-17T16:18:39.084+0000] {processor.py:154} INFO - Started process (PID=6757) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:18:39.087+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:18:39.089+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:18:39.089+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:18:39.442+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:18:39.531+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:18:39.531+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:18:39.622+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:18:39.622+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:18:39.680+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.603 seconds
+[2022-12-17T16:19:10.193+0000] {processor.py:154} INFO - Started process (PID=6781) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:19:10.195+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:19:10.197+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:19:10.197+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:19:10.275+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:19:10.415+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:19:10.414+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:19:10.766+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:19:10.766+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:19:10.814+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.629 seconds
+[2022-12-17T16:19:41.597+0000] {processor.py:154} INFO - Started process (PID=6803) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:19:41.599+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:19:41.602+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:19:41.601+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:19:41.675+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:19:41.796+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:19:41.796+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:19:42.098+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:19:42.098+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:19:42.148+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.560 seconds
+[2022-12-17T16:20:12.466+0000] {processor.py:154} INFO - Started process (PID=6824) to work on /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:20:12.472+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_unschedule.py for tasks to queue
+[2022-12-17T16:20:12.477+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:20:12.477+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:20:12.583+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_unschedule.py
+[2022-12-17T16:20:13.016+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:20:13.015+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:20:13.067+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:20:13.067+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:20:13.121+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_unschedule.py took 0.663 seconds

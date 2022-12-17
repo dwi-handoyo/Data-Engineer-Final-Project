@@ -1,0 +1,56 @@
+[2022-12-17T14:19:29.006+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: dag_fact_daily.fact_total_state scheduled__2022-12-16T00:00:00+00:00 [queued]>
+[2022-12-17T14:19:29.051+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: dag_fact_daily.fact_total_state scheduled__2022-12-16T00:00:00+00:00 [queued]>
+[2022-12-17T14:19:29.052+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-17T14:19:29.054+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 1
+[2022-12-17T14:19:29.055+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-17T14:19:29.100+0000] {taskinstance.py:1383} INFO - Executing <Task(PostgresOperator): fact_total_state> on 2022-12-16 00:00:00+00:00
+[2022-12-17T14:19:29.118+0000] {standard_task_runner.py:55} INFO - Started process 1921 to run task
+[2022-12-17T14:19:29.130+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'dag_fact_daily', 'fact_total_state', 'scheduled__2022-12-16T00:00:00+00:00', '--job-id', '7', '--raw', '--subdir', 'DAGS_FOLDER/dag_currency_daily.py', '--cfg-path', '/tmp/tmpgdj8wv5f']
+[2022-12-17T14:19:29.131+0000] {standard_task_runner.py:83} INFO - Job 7: Subtask fact_total_state
+[2022-12-17T14:19:29.333+0000] {task_command.py:376} INFO - Running <TaskInstance: dag_fact_daily.fact_total_state scheduled__2022-12-16T00:00:00+00:00 [running]> on host dc5e6801fe25
+[2022-12-17T14:19:29.429+0000] {abstractoperator.py:417} ERROR - Exception rendering Jinja template for task 'fact_total_state', field 'sql'. Template: 'fact_total_state.sql'
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/abstractoperator.py", line 410, in _do_render_template_fields
+    rendered_content = self.render_template(
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/abstractoperator.py", line 468, in render_template
+    template = jinja_env.get_template(value)
+  File "/home/airflow/.local/lib/python3.8/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/home/airflow/.local/lib/python3.8/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/home/airflow/.local/lib/python3.8/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/home/airflow/.local/lib/python3.8/site-packages/jinja2/loaders.py", line 218, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: fact_total_state.sql
+[2022-12-17T14:19:29.467+0000] {taskinstance.py:1851} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1457, in _run_raw_task
+    self._execute_task_with_callbacks(context, test_mode)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1576, in _execute_task_with_callbacks
+    task_orig = self.render_templates(context=context)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 2199, in render_templates
+    original_task.render_template_fields(context)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 1193, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/utils/session.py", line 75, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/abstractoperator.py", line 410, in _do_render_template_fields
+    rendered_content = self.render_template(
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/abstractoperator.py", line 468, in render_template
+    template = jinja_env.get_template(value)
+  File "/home/airflow/.local/lib/python3.8/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/home/airflow/.local/lib/python3.8/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/home/airflow/.local/lib/python3.8/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/home/airflow/.local/lib/python3.8/site-packages/jinja2/loaders.py", line 218, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: fact_total_state.sql
+[2022-12-17T14:19:29.618+0000] {taskinstance.py:1401} INFO - Marking task as FAILED. dag_id=dag_fact_daily, task_id=fact_total_state, execution_date=20221216T000000, start_date=20221217T141929, end_date=20221217T141929
+[2022-12-17T14:19:29.708+0000] {standard_task_runner.py:100} ERROR - Failed to execute job 7 for task fact_total_state (fact_total_state.sql; 1921)
+[2022-12-17T14:19:29.745+0000] {local_task_job.py:159} INFO - Task exited with return code 1
+[2022-12-17T14:19:29.822+0000] {taskinstance.py:2623} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,7 @@
+[2022-12-17T15:05:42.337+0000] {processor.py:154} INFO - Started process (PID=3610) to work on /opt/airflow/dags/dag_currency_monthly - Copy.py
+[2022-12-17T15:05:42.339+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_monthly - Copy.py for tasks to queue
+[2022-12-17T15:05:42.342+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:05:42.341+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_monthly - Copy.py
+[2022-12-17T15:05:42.543+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_monthly']) retrieved from /opt/airflow/dags/dag_currency_monthly - Copy.py
+[2022-12-17T15:05:43.170+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:05:43.170+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:05:44.107+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:05:44.106+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_monthly to 2023-01-01T00:00:00+00:00, run_after=2023-01-01T00:01:00+00:00
+[2022-12-17T15:05:44.510+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_monthly - Copy.py took 2.185 seconds

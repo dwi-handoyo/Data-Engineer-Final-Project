@@ -1,0 +1,312 @@
+[2022-12-17T15:40:44.331+0000] {processor.py:154} INFO - Started process (PID=5033) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:40:44.332+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:40:44.334+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:40:44.334+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:40:44.475+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:40:44.897+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:40:44.896+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:40:44.945+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:40:44.945+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:40:45.003+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.681 seconds
+[2022-12-17T15:41:15.495+0000] {processor.py:154} INFO - Started process (PID=5055) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:41:15.497+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:41:15.499+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:41:15.499+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:41:15.560+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:41:15.683+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:41:15.682+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:41:16.582+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:41:16.581+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:41:16.686+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 1.199 seconds
+[2022-12-17T15:41:47.035+0000] {processor.py:154} INFO - Started process (PID=5085) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:41:47.038+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:41:47.041+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:41:47.041+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:41:47.128+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:41:47.225+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:41:47.224+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:41:47.630+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:41:47.630+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:41:47.681+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.661 seconds
+[2022-12-17T15:42:18.176+0000] {processor.py:154} INFO - Started process (PID=5105) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:42:18.178+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:42:18.181+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:42:18.180+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:42:18.377+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:42:18.711+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:42:18.710+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:42:18.988+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:42:18.988+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:42:19.038+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.871 seconds
+[2022-12-17T15:42:49.586+0000] {processor.py:154} INFO - Started process (PID=5127) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:42:49.588+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:42:49.590+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:42:49.590+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:42:49.661+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:42:49.772+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:42:49.771+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:42:49.829+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:42:49.828+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:42:49.876+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.296 seconds
+[2022-12-17T15:43:20.402+0000] {processor.py:154} INFO - Started process (PID=5148) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:43:20.404+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:43:20.406+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:43:20.405+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:43:20.468+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:43:20.521+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:43:20.521+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:43:20.570+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:43:20.570+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:43:20.622+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.227 seconds
+[2022-12-17T15:43:50.906+0000] {processor.py:154} INFO - Started process (PID=5178) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:43:50.911+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:43:50.913+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:43:50.913+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:43:50.994+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:43:51.576+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:43:51.575+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:43:51.644+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:43:51.643+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:43:51.702+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.805 seconds
+[2022-12-17T15:44:21.946+0000] {processor.py:154} INFO - Started process (PID=5199) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:44:21.951+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:44:21.954+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:44:21.953+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:44:22.036+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:44:22.133+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:44:22.133+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:44:22.379+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:44:22.378+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:44:22.421+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.484 seconds
+[2022-12-17T15:44:52.675+0000] {processor.py:154} INFO - Started process (PID=5221) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:44:52.677+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:44:52.680+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:44:52.679+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:44:52.760+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:44:52.840+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:44:52.839+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:44:53.113+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:44:53.113+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:44:53.153+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.488 seconds
+[2022-12-17T15:45:23.364+0000] {processor.py:154} INFO - Started process (PID=5244) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:45:23.366+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:45:23.370+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:45:23.369+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:45:23.442+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:45:23.826+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:45:23.825+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:45:23.879+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:45:23.879+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:45:23.918+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.560 seconds
+[2022-12-17T15:45:54.676+0000] {processor.py:154} INFO - Started process (PID=5275) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:45:54.680+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:45:54.682+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:45:54.682+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:45:54.749+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:45:54.857+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:45:54.857+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:45:54.944+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:45:54.943+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:45:55.019+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.351 seconds
+[2022-12-17T15:46:25.498+0000] {processor.py:154} INFO - Started process (PID=5297) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:46:25.500+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:46:25.502+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:46:25.502+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:46:25.566+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:46:25.621+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:46:25.621+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:46:25.671+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:46:25.671+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:46:25.714+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.222 seconds
+[2022-12-17T15:46:56.031+0000] {processor.py:154} INFO - Started process (PID=5318) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:46:56.034+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:46:56.036+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:46:56.036+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:46:56.102+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:46:56.495+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:46:56.495+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:46:56.543+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:46:56.543+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:46:56.596+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.572 seconds
+[2022-12-17T15:47:26.941+0000] {processor.py:154} INFO - Started process (PID=5340) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:47:26.943+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:47:26.945+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:47:26.945+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:47:27.024+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:47:27.121+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:47:27.120+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:47:27.399+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:47:27.399+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:47:27.441+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.511 seconds
+[2022-12-17T15:47:57.859+0000] {processor.py:154} INFO - Started process (PID=5369) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:47:57.862+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:47:57.868+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:47:57.867+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:47:57.951+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:47:58.029+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:47:58.029+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:47:58.375+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:47:58.375+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:47:58.445+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.594 seconds
+[2022-12-17T15:48:29.100+0000] {processor.py:154} INFO - Started process (PID=5389) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:48:29.103+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:48:29.105+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:48:29.105+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:48:29.190+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:48:29.581+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:48:29.581+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:48:29.626+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:48:29.626+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:48:29.671+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.577 seconds
+[2022-12-17T15:48:59.960+0000] {processor.py:154} INFO - Started process (PID=5412) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:48:59.965+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:48:59.968+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:48:59.968+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:49:00.039+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:49:00.149+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:49:00.148+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:49:00.220+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:49:00.219+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:49:00.262+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.310 seconds
+[2022-12-17T15:49:30.744+0000] {processor.py:154} INFO - Started process (PID=5435) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:49:30.746+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:49:30.748+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:49:30.747+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:49:30.809+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:49:30.862+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:49:30.862+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:49:30.908+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:49:30.908+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:49:30.951+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.214 seconds
+[2022-12-17T15:50:01.715+0000] {processor.py:154} INFO - Started process (PID=5458) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:50:01.717+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:50:01.721+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:01.721+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:50:01.793+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:50:02.162+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:02.162+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:50:02.213+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:02.212+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:50:02.252+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.547 seconds
+[2022-12-17T15:50:32.461+0000] {processor.py:154} INFO - Started process (PID=5481) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:50:32.463+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:50:32.464+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:32.464+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:50:32.517+0000] {processor.py:766} INFO - DAG(s) dict_keys(['home_credit_application_mysql']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:50:32.612+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:32.611+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:50:32.886+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:32.885+0000] {dag.py:3336} INFO - Setting next_dagrun for home_credit_application_mysql to None, run_after=None
+[2022-12-17T15:50:32.924+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.471 seconds
+[2022-12-17T15:50:36.021+0000] {processor.py:154} INFO - Started process (PID=5490) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:50:36.024+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:50:36.028+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:36.027+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:50:36.215+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:50:37.095+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:37.095+0000] {manager.py:507} INFO - Created Permission View: can edit on DAG:currency_api_kafka
+[2022-12-17T15:50:37.126+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:37.125+0000] {manager.py:507} INFO - Created Permission View: can read on DAG:currency_api_kafka
+[2022-12-17T15:50:37.158+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:37.158+0000] {manager.py:507} INFO - Created Permission View: can delete on DAG:currency_api_kafka
+[2022-12-17T15:50:37.159+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:37.159+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:50:37.196+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:37.195+0000] {dag.py:2606} INFO - Creating ORM DAG for currency_api_kafka
+[2022-12-17T15:50:37.226+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:50:37.226+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:50:37.282+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 1.272 seconds
+[2022-12-17T15:51:05.940+0000] {processor.py:154} INFO - Started process (PID=5512) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:51:05.946+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:51:05.948+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:51:05.948+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:51:06.169+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:51:06.272+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:51:06.272+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:51:06.613+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:51:06.613+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:51:06.665+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.735 seconds
+[2022-12-17T15:51:36.781+0000] {processor.py:154} INFO - Started process (PID=5534) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:51:36.783+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:51:36.785+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:51:36.785+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:51:36.849+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:51:37.267+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:51:37.267+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:51:37.316+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:51:37.315+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:51:37.364+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.591 seconds
+[2022-12-17T15:52:07.469+0000] {processor.py:154} INFO - Started process (PID=5556) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:52:07.471+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:52:07.473+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:52:07.472+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:52:07.534+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:52:07.693+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:52:07.692+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:52:07.742+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:52:07.742+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:52:07.781+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.318 seconds
+[2022-12-17T15:52:38.317+0000] {processor.py:154} INFO - Started process (PID=5578) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:52:38.320+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:52:38.322+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:52:38.321+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:52:38.417+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:52:38.543+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:52:38.543+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:52:38.624+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:52:38.624+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:52:38.693+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.388 seconds
+[2022-12-17T15:53:09.382+0000] {processor.py:154} INFO - Started process (PID=5608) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:53:09.384+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:53:09.387+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:53:09.386+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:53:09.438+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:53:09.518+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:53:09.517+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:53:09.764+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:53:09.763+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:53:09.817+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.443 seconds
+[2022-12-17T15:53:39.999+0000] {processor.py:154} INFO - Started process (PID=5630) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:53:40.002+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:53:40.004+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:53:40.003+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:53:40.070+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:53:40.157+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:53:40.157+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:53:40.419+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:53:40.419+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:53:40.463+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.476 seconds
+[2022-12-17T15:54:10.948+0000] {processor.py:154} INFO - Started process (PID=5652) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:54:10.950+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:54:10.952+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:54:10.952+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:54:11.020+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:54:11.108+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:54:11.108+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:54:11.340+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:54:11.340+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:54:11.379+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.440 seconds
+[2022-12-17T15:54:41.828+0000] {processor.py:154} INFO - Started process (PID=5681) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:54:41.830+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:54:41.834+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:54:41.832+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:54:41.893+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:54:42.225+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:54:42.224+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:54:42.281+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:54:42.280+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:54:42.335+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.516 seconds
+[2022-12-17T15:55:13.204+0000] {processor.py:154} INFO - Started process (PID=5704) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:55:13.207+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:55:13.216+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:55:13.215+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:55:13.295+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:55:13.599+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:55:13.599+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:55:13.643+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:55:13.643+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:55:13.683+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.488 seconds
+[2022-12-17T15:55:43.842+0000] {processor.py:154} INFO - Started process (PID=5727) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:55:43.844+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:55:43.848+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:55:43.847+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:55:43.901+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:55:44.002+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:55:44.001+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:55:44.056+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:55:44.055+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:55:44.106+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.271 seconds
+[2022-12-17T15:56:14.320+0000] {processor.py:154} INFO - Started process (PID=5748) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:56:14.322+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:56:14.323+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:56:14.323+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:56:14.385+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:56:14.479+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:56:14.479+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:56:14.531+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:56:14.531+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:56:14.783+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.471 seconds
+[2022-12-17T15:56:44.975+0000] {processor.py:154} INFO - Started process (PID=5776) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:56:44.992+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:56:44.995+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:56:44.994+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:56:45.102+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:56:45.253+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:56:45.252+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:56:45.625+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:56:45.624+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:56:45.679+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.726 seconds
+[2022-12-17T15:57:16.044+0000] {processor.py:154} INFO - Started process (PID=5798) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:57:16.048+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:57:16.053+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:57:16.052+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:57:16.144+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:57:16.267+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:57:16.267+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:57:17.505+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:57:17.504+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:57:17.561+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 1.533 seconds
+[2022-12-17T15:57:47.696+0000] {processor.py:154} INFO - Started process (PID=5820) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:57:47.698+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:57:47.699+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:57:47.699+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:57:47.759+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:57:48.041+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:57:48.041+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:57:48.083+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:57:48.083+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:57:48.121+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.431 seconds
+[2022-12-17T15:58:18.389+0000] {processor.py:154} INFO - Started process (PID=5843) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:58:18.391+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:58:18.396+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:58:18.395+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:58:18.446+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:58:18.725+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:58:18.725+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:58:18.769+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:58:18.769+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:58:18.807+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.427 seconds
+[2022-12-17T15:58:49.539+0000] {processor.py:154} INFO - Started process (PID=5865) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:58:49.541+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:58:49.545+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:58:49.544+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:58:49.605+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:58:49.704+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:58:49.702+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:58:49.762+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:58:49.762+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:58:49.815+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.282 seconds
+[2022-12-17T15:59:20.303+0000] {processor.py:154} INFO - Started process (PID=5886) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:59:20.305+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:59:20.307+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:59:20.307+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:59:20.379+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:59:20.491+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:59:20.491+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:59:20.562+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:59:20.561+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:59:20.864+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.571 seconds
+[2022-12-17T15:59:51.395+0000] {processor.py:154} INFO - Started process (PID=5917) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:59:51.397+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T15:59:51.399+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:59:51.399+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:59:51.453+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T15:59:51.543+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:59:51.543+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T15:59:51.828+0000] {logging_mixin.py:137} INFO - [2022-12-17T15:59:51.827+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T15:59:51.866+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.479 seconds
+[2022-12-17T16:00:22.457+0000] {processor.py:154} INFO - Started process (PID=5938) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:00:22.459+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T16:00:22.461+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:00:22.460+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:00:22.515+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:00:22.607+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:00:22.606+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:00:22.873+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:00:22.873+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:00:22.909+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.460 seconds
+[2022-12-17T16:00:53.769+0000] {processor.py:154} INFO - Started process (PID=5959) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:00:53.772+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T16:00:53.774+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:00:53.773+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:00:53.848+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:00:54.144+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:00:54.144+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:00:54.186+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:00:54.186+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:00:54.226+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.464 seconds
+[2022-12-17T16:01:24.528+0000] {processor.py:154} INFO - Started process (PID=5987) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:01:24.530+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T16:01:24.532+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:01:24.532+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:01:24.607+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:01:24.946+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:01:24.946+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:01:25.014+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:01:25.012+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:01:25.066+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.550 seconds
+[2022-12-17T16:01:55.523+0000] {processor.py:154} INFO - Started process (PID=6009) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:01:55.525+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T16:01:55.528+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:01:55.527+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:01:55.765+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:01:56.007+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:01:56.006+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:01:56.120+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:01:56.119+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:01:56.258+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.742 seconds
+[2022-12-17T16:02:26.525+0000] {processor.py:154} INFO - Started process (PID=6030) to work on /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:02:26.527+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_currency_kafka.py for tasks to queue
+[2022-12-17T16:02:26.530+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:02:26.529+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:02:26.605+0000] {processor.py:766} INFO - DAG(s) dict_keys(['currency_api_kafka']) retrieved from /opt/airflow/dags/dag_currency_kafka.py
+[2022-12-17T16:02:26.695+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:02:26.695+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-17T16:02:26.750+0000] {logging_mixin.py:137} INFO - [2022-12-17T16:02:26.750+0000] {dag.py:3336} INFO - Setting next_dagrun for currency_api_kafka to None, run_after=None
+[2022-12-17T16:02:27.052+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_currency_kafka.py took 0.535 seconds

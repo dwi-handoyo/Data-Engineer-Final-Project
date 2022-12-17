@@ -1,0 +1,34 @@
+[2022-12-17T14:55:39.965+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: currency_daily.Daily_Currency_Avg manual__2022-12-17T14:41:47.233782+00:00 [queued]>
+[2022-12-17T14:55:39.986+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: currency_daily.Daily_Currency_Avg manual__2022-12-17T14:41:47.233782+00:00 [queued]>
+[2022-12-17T14:55:39.987+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-17T14:55:39.989+0000] {taskinstance.py:1363} INFO - Starting attempt 2 of 2
+[2022-12-17T14:55:39.990+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-17T14:55:40.042+0000] {taskinstance.py:1383} INFO - Executing <Task(BashOperator): Daily_Currency_Avg> on 2022-12-17 14:41:47.233782+00:00
+[2022-12-17T14:55:40.052+0000] {standard_task_runner.py:55} INFO - Started process 3130 to run task
+[2022-12-17T14:55:40.061+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'currency_daily', 'Daily_Currency_Avg', 'manual__2022-12-17T14:41:47.233782+00:00', '--job-id', '11', '--raw', '--subdir', 'DAGS_FOLDER/dag_currency_daily.py', '--cfg-path', '/tmp/tmpoma9_2uo']
+[2022-12-17T14:55:40.064+0000] {standard_task_runner.py:83} INFO - Job 11: Subtask Daily_Currency_Avg
+[2022-12-17T14:55:40.942+0000] {task_command.py:376} INFO - Running <TaskInstance: currency_daily.Daily_Currency_Avg manual__2022-12-17T14:41:47.233782+00:00 [running]> on host dc5e6801fe25
+[2022-12-17T14:55:41.558+0000] {taskinstance.py:1590} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=handoyo
+AIRFLOW_CTX_DAG_ID=currency_daily
+AIRFLOW_CTX_TASK_ID=Daily_Currency_Avg
+AIRFLOW_CTX_EXECUTION_DATE=2022-12-17T14:41:47.233782+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-12-17T14:41:47.233782+00:00
+[2022-12-17T14:55:41.560+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2022-12-17T14:55:41.562+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'python /opt/***/scripts/fact_currency_daily_avg.py']
+[2022-12-17T14:55:41.578+0000] {subprocess.py:86} INFO - Output:
+[2022-12-17T14:56:12.486+0000] {subprocess.py:93} INFO -    currency_id        date  daily_rate_avg
+[2022-12-17T14:56:12.488+0000] {subprocess.py:93} INFO - 0            1  2022-12-14        0.860214
+[2022-12-17T14:56:12.489+0000] {subprocess.py:93} INFO - 2            2  2022-12-14        1.062536
+[2022-12-17T14:56:12.489+0000] {subprocess.py:93} INFO - 4            3  2022-12-14        0.941145
+[2022-12-17T14:56:12.490+0000] {subprocess.py:93} INFO - 1            1  2022-12-15        0.861932
+[2022-12-17T14:56:12.491+0000] {subprocess.py:93} INFO - 3            2  2022-12-15        1.062708
+[2022-12-17T14:56:12.491+0000] {subprocess.py:93} INFO - 5            3  2022-12-15        0.940994
+[2022-12-17T14:56:12.748+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2022-12-17T14:56:12.909+0000] {taskinstance.py:1401} INFO - Marking task as SUCCESS. dag_id=currency_daily, task_id=Daily_Currency_Avg, execution_date=20221217T144147, start_date=20221217T145539, end_date=20221217T145612
+[2022-12-17T14:56:13.054+0000] {local_task_job.py:159} INFO - Task exited with return code 0
+[2022-12-17T14:56:13.113+0000] {taskinstance.py:2623} INFO - 1 downstream tasks scheduled from follow-on schedule check

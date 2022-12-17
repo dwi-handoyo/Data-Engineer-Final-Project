@@ -1,0 +1,34 @@
+[2022-12-17T14:41:51.138+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: currency_daily.Daily_Currency_Avg manual__2022-12-17T14:41:47.233782+00:00 [queued]>
+[2022-12-17T14:41:51.162+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: currency_daily.Daily_Currency_Avg manual__2022-12-17T14:41:47.233782+00:00 [queued]>
+[2022-12-17T14:41:51.162+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-17T14:41:51.164+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 1
+[2022-12-17T14:41:51.164+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-17T14:41:51.195+0000] {taskinstance.py:1383} INFO - Executing <Task(BashOperator): Daily_Currency_Avg> on 2022-12-17 14:41:47.233782+00:00
+[2022-12-17T14:41:51.202+0000] {standard_task_runner.py:55} INFO - Started process 2674 to run task
+[2022-12-17T14:41:51.210+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'currency_daily', 'Daily_Currency_Avg', 'manual__2022-12-17T14:41:47.233782+00:00', '--job-id', '10', '--raw', '--subdir', 'DAGS_FOLDER/dag_currency_daily.py', '--cfg-path', '/tmp/tmp5277lx_w']
+[2022-12-17T14:41:51.212+0000] {standard_task_runner.py:83} INFO - Job 10: Subtask Daily_Currency_Avg
+[2022-12-17T14:41:51.415+0000] {task_command.py:376} INFO - Running <TaskInstance: currency_daily.Daily_Currency_Avg manual__2022-12-17T14:41:47.233782+00:00 [running]> on host dc5e6801fe25
+[2022-12-17T14:41:51.581+0000] {taskinstance.py:1590} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=handoyo
+AIRFLOW_CTX_DAG_ID=currency_daily
+AIRFLOW_CTX_TASK_ID=Daily_Currency_Avg
+AIRFLOW_CTX_EXECUTION_DATE=2022-12-17T14:41:47.233782+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-12-17T14:41:47.233782+00:00
+[2022-12-17T14:41:51.584+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2022-12-17T14:41:51.585+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'python /opt/***/dags/fact_currency_daily_avg.py']
+[2022-12-17T14:41:51.608+0000] {subprocess.py:86} INFO - Output:
+[2022-12-17T14:41:51.873+0000] {subprocess.py:93} INFO - python: can't open file '/opt/***/dags/fact_currency_daily_avg.py': [Errno 2] No such file or directory
+[2022-12-17T14:41:51.880+0000] {subprocess.py:97} INFO - Command exited with return code 2
+[2022-12-17T14:41:51.904+0000] {taskinstance.py:1851} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/bash.py", line 196, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2022-12-17T14:41:51.913+0000] {taskinstance.py:1401} INFO - Marking task as FAILED. dag_id=currency_daily, task_id=Daily_Currency_Avg, execution_date=20221217T144147, start_date=20221217T144151, end_date=20221217T144151
+[2022-12-17T14:41:51.941+0000] {standard_task_runner.py:100} ERROR - Failed to execute job 10 for task Daily_Currency_Avg (Bash command failed. The command returned a non-zero exit code 2.; 2674)
+[2022-12-17T14:41:51.993+0000] {local_task_job.py:159} INFO - Task exited with return code 1
+[2022-12-17T14:41:52.058+0000] {taskinstance.py:2623} INFO - 0 downstream tasks scheduled from follow-on schedule check
